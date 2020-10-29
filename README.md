@@ -1,3 +1,3 @@
 # hpc
 
-TODO: basic hpc technoligies with examples.
+TODO: basic hpc technologies with examples.
